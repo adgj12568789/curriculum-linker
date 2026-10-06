@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/generate-linkage.js": { "maxDuration": 30 }
-  }
-}
